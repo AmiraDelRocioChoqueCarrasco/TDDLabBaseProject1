@@ -42,4 +42,3 @@ describe("fizzBuzz", () => {
      expect(fizzbuzz(7)).toEqual("7");
    });
 });
-

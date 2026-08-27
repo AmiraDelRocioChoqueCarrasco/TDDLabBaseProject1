@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4d5ab25c415240143ffa2f39bb00e23fb3e1e8a4",
     "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
     "commit": {
       "date": "2026-08-27T14:28:52.000Z",
       "message": "feat: Caso de prueba no es multiplo de ninguno",
-      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/4d5ab25c415240143ffa2f39bb00e23fb3e1e8a4"
     },
     "stats": {
       "total": 10,
       "additions": 9,
       "deletions": 1,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
+    "commit": {
+      "date": "2026-08-27T14:39:13.000Z",
+      "message": "feat: Index modificado",
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 13,
+      "deletions": 12,
       "date": "2026-08-27"
     },
     "coverage": 100,
