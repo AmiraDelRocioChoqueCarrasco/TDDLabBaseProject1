@@ -14,9 +14,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5924d2e83d16d20f058da451d058a5ed2eeeb3db",
     "commitName": "feat: Caso de prueba cuando el numero es 1",
     "commitTimestamp": 1787839533998,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Caso de prueba cuando es solo multiplo de 3",
+    "commitTimestamp": 1787839774997,
+    "testId": 2
   }
 ]

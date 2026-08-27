@@ -9,5 +9,9 @@ describe("fizzBuzz", () => {
    it("debería generar el numero otro numero que no sigue una regla", () => {
      expect(fizzbuzz(1)).toEqual("1");
    });
+
+   it("debería generar la palabra fizz si es solo múltiplo de 3", () => {
+     expect(fizzbuzz(3)).toEqual("Fizz");
+   });
 });
 
