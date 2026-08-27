@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3d116f541dcd6f39ef2b605ebd01657dc7043983",
     "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
     "commit": {
       "date": "2026-08-27T14:12:16.000Z",
       "message": "feat: Caso de prueba cuando se cumpla ser multiplo de 3n",
-      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/3d116f541dcd6f39ef2b605ebd01657dc7043983"
     },
     "stats": {
       "total": 4,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
+    "commit": {
+      "date": "2026-08-27T14:14:39.000Z",
+      "message": "feat: Caso de prueba cuando es 5",
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

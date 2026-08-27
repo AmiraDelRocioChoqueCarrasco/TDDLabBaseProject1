@@ -26,9 +26,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3d116f541dcd6f39ef2b605ebd01657dc7043983",
     "commitName": "feat: Caso de prueba cuando se cumpla ser multiplo de 3n",
     "commitTimestamp": 1787839937516,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Caso de prueba cuando es 5",
+    "commitTimestamp": 1787840080847,
+    "testId": 4
   }
 ]

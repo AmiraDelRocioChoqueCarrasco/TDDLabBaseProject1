@@ -6,6 +6,8 @@ function fizzbuzz(num) {
         return "Fizz";
     }else if (num % 3 != 0 & num % 5 != 0) {
         return num.toString();
+    }else if(num ==5){
+        return "Buzz";
     }
 }
 
