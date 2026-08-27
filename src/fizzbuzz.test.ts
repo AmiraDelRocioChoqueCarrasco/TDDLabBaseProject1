@@ -27,7 +27,11 @@ describe("fizzBuzz", () => {
    });
 
    it("debería generar la palabra fizzbuzz si es múltiplo de ambos", () => {
-     expect(fizzbuzz(15)).toEqual("15");
+     expect(fizzbuzz(15)).toEqual("FizzBuzz");
+   });
+
+   it("debería generar la palabra fizzbuzz si es múltiplo de ambos", () => {
+     expect(fizzbuzz(15)).toEqual("FizzBuzz");
    });
 });
 

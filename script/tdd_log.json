@@ -50,9 +50,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "106c6b2635e3b38c1a7fca1539d8e26ca10caa9c",
     "commitName": "feat: Caso de prueba cuando cumple con ambos",
     "commitTimestamp": 1787840590344,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Caso de prueba cuando es multiplo de 3 y 5",
+    "commitTimestamp": 1787840817473,
+    "testId": 8
   }
 ]
