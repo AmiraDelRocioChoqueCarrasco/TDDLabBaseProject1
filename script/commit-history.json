@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8ada408afcd1525e98ec9212fe26388f1d868756",
     "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
     "commit": {
       "date": "2026-08-27T14:19:58.000Z",
       "message": "feat: Caso de prueba cuando es solo multiplo de 3",
-      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/8ada408afcd1525e98ec9212fe26388f1d868756"
     },
     "stats": {
       "total": 4,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AMIRA DEL ROCÍO CHOQUE CARRASCO",
+    "commit": {
+      "date": "2026-08-27T14:23:09.000Z",
+      "message": "feat: Caso de prueba cuando cumple con ambos",
+      "url": "https://github.com/AmiraDelRocioChoqueCarrasco/TDDLabBaseProject1/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 8,
+      "deletions": 2,
+      "date": "2026-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
