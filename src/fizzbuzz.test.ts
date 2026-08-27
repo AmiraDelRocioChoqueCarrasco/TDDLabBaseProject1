@@ -21,5 +21,9 @@ describe("fizzBuzz", () => {
    it("debería generar la palabra buzz si es solo múltiplo de 5", () => {
      expect(fizzbuzz(5)).toEqual("Buzz");
    });
+
+   it("debería generar la palabra buzz si es solo múltiplo de 5", () => {
+     expect(fizzbuzz(25)).toEqual("Buzz");
+   });
 });
 
