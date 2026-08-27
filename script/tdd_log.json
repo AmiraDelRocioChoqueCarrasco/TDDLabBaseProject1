@@ -8,9 +8,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "43be9e577745ee5db997a0c27f122b9fbe2fa344",
     "commitName": "feat: Caso de prueba cuando no cumple ninguna restricción",
     "commitTimestamp": 1787838910755,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Caso de prueba cuando el numero es 1",
+    "commitTimestamp": 1787839533998,
+    "testId": 1
   }
 ]
